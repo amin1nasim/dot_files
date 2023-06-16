@@ -1,0 +1,2 @@
+alias env-kaggle="conda activate /home/amin/conda-envs/kaggle"
+alias slicer="/home/amin/Apps/Slicer-5.2.2-linux-amd64/Slicer"
